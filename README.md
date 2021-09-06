@@ -1,12 +1,12 @@
 <h1 align="center"> Hi, I'm 0xPotat0 🥔</h1>
 
 
-You can find me on [![TryHackMe][1.2]][1], or on [![HackTheBox][2.2]][2].
+You can find me on [![TryHackMe][1.2][1]], or on [![HackTheBox][2.2][2]].
 
 <!-- Icons -->
 
-[1.2]: https://raw.githubusercontent.com/0xPotat0/0xPotat0/main/icons/tryhackme.svg(THM icon without padding)
-[2.2]: https://raw.githubusercontent.com/0xPotat0/0xPotat0/main/icons/hackthebox.svg (HTB icon without padding)
+[1.2]: https://raw.githubusercontent.com/0xPotat0/0xPotat0/main/icons/tryhackme.svg
+[2.2]: https://raw.githubusercontent.com/0xPotat0/0xPotat0/main/icons/hackthebox.svg
 
 <!-- Links to your social media accounts -->
 
