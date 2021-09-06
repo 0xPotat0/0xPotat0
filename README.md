@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm 0xPotat0 🥔</h1>
- <script src="https://tryhackme.com/badge/621174"></script>
+
 
 You can find me on [![TryHackMe][1.2]][1], or on [![HackTheBox][2.2]][2].
 
@@ -10,5 +10,5 @@ You can find me on [![TryHackMe][1.2]][1], or on [![HackTheBox][2.2]][2].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://tryhackme.com/p/0xPotat0
+[2]: https://app.hackthebox.eu/profile/719312
